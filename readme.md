@@ -15,3 +15,4 @@ Bem vindo ao minicurso de TensorFlow básico, neste repositório você encontrar
 
 
 ##### Ministrante: Ronald Lopes
+##### Site do congresso: http://citi2019.centro.iff.edu.br/apresentacao
