@@ -9,7 +9,6 @@ Bem vindo ao minicurso de TensorFlow básico, neste repositório você encontrar
 ## Tópicos abordados no minicurso
 
 * O que é uma rede neural, seus tipos e como começar
-* Tecnologias existentes no mercado (IBM Watson, Google Cloud, Amazon AWS)
 * Entender o que é o TensorFlow e como ele trabalha
 * Laboratório 1: Entendendo a estrutura do TensorFlow
 * Estudo de caso: Classificando imagens de roupas com o Keras 
