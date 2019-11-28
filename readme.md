@@ -1,7 +1,10 @@
+
+![](CITI_2019_01.jpg)
+
 # Minicurso TensorFlow
 Bem vindo ao minicurso de TensorFlow básico, neste repositório você encontrará todo o material utilizado no minicurso durante o 10º Congresso Integrado da Tecnologia da Informação (CITI) promovido pelo Instituto Federal Fluminense campus Campos Centro.
 
-![](logo_tensorflow.png)
+![](Minicurso.png)
 
 ## Tópicos abordados no minicurso
 
